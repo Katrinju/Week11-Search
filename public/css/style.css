@@ -1,0 +1,24 @@
+.container {
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+}
+
+.movie-data-list {
+    list-style: none;
+    line-height: 2rem;
+}
+
+span {
+    font-weight: bold;
+}
+
+img {
+    width: 250px;
+    border-radius: 5px;
+}
+
+form {
+    width: 75%;
+    margin: 0 auto;
+}
